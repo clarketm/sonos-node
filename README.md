@@ -1,4 +1,6 @@
-# node-sonos
+# sonos-node
+
+> NOTICE: this is a fork of (node-sonos)[https://github.com/bencevans/node-sonos] with modification for development and testing purposes.
 
 [![npm](http://img.shields.io/npm/v/sonos.svg?style=flat-square)](https://www.npmjs.org/package/sonos)
 [![build](http://img.shields.io/travis/bencevans/node-sonos/master.svg?style=flat-square)](https://travis-ci.org/bencevans/node-sonos)
