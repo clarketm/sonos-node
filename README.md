@@ -1,6 +1,6 @@
 # sonos-node
 
-> **NOTICE**: this is a fork of [node-sonos](https://github.com/bencevans/node-sonos) with modification for development and testing purposes. The *node-sonos* docs are below.
+> **NOTICE**: this is a fork of [node-sonos](https://github.com/bencevans/node-sonos) optimized for Node v6.10.3 LTS development and testing purposes. The *node-sonos* docs are below.
 
 # [node-sonos](https://github.com/bencevans/node-sonos)
 [![npm](http://img.shields.io/npm/v/sonos.svg?style=flat-square)](https://www.npmjs.org/package/sonos)
